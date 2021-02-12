@@ -19,7 +19,9 @@
     "Selectors": ["selectors"],
     "Backgrounds": ["backgrounds"],
     "Errors": ["errors"],
-    "Dictionary": ["dictionary"]
+    "Dictionary": ["dictionary"],
+    "List": ["list"],
+    "Strings": ["strings"]
   },
   "languages": {
     "HTML": "html",
