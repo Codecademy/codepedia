@@ -24,7 +24,7 @@ We'll describe the standards for the content and the metadata separately.
 
 #### Editorial Standards for Content 
 
-- Encyclopedia entry titles should follow the format "<Subject Name> in <Language Name>" (Loops in Python).
+- Encyclopedia entry titles should follow the format [Subject Name] in [Language Name] (Loops in Python).
 - All text should be written in Markdown.
 - The content should begin with a brief title of size H1 (i.e. preceded by "# ")
 - This title should not exceed 30 characters unless absolutely necessary
