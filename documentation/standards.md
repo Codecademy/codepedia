@@ -35,4 +35,11 @@ We'll describe the standards for the content and the metadata separately.
 - Each subsection should begin with a title of size H2 (i.e. preceded by "## ")
 - All in-line code should be delineated by single backticks (`)
 - All code blocks should be delineated by triple backticks (```)
-- For more details on Markdown, see Codecademy's Curriculum Markdown Style Guide.
+  - Python use ```py
+  - JavaScript ```js
+  - SQL ```sql
+  - Error ```error
+  - Output ```bash
+  - C++ ```cppp 
+
+For more details on Markdown, see Codecademy's Curriculum Markdown Style Guide.
