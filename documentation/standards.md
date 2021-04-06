@@ -26,7 +26,9 @@ We'll describe the standards for the content and the metadata separately.
 
 ### Editorial Standards for Content 
 
-- Content should be as brief as possible without sacrificing clarity.
+- Brevity without sacrificing clarity. Make every word count.
+- 90% of writing is rewriting.
+- If the concept is hard, make it easy. If it's dry, make it fun. If it's simple, keep it simple.
 - Avoid using first- and second-person pronouns (e.g. I, we, you).
 - Avoid referencing information that isn't strictly related to the topic of the entry. As a rule, you want to assume as little pre-existing knowledge as possible. 
 - Encyclopedia entry titles should follow the format <Subject Name> in <Language Name> (Loops in Python).
