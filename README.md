@@ -5,7 +5,9 @@
 </div>
 <br>
 
-Welcome to the [Codepedia](https://codecademy.github.io/codepedia) codebase. We are so excited to have you. With your help, we can build out Codepedia’s content to better serve our learners. If you're interested in contributing, check out our [Contribution Guide](https://github.com/codecademy/codepedia/blob/main/contribute.md).
+Welcome to the [Codepedia](https://codecademy.github.io/codepedia) codebase. We are so excited to have you. With your help, we can build out Codepedia’s content to better serve our learners. 
+
+If you're interested in contributing, check out our [Contribution Guide](https://github.com/codecademy/codepedia/blob/main/contribute.md).
 
 ## Running locally
 
