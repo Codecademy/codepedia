@@ -23,9 +23,9 @@ We'll describe the standards for the content and the metadata separately.
 ### Editorial Standards for Content 
 
 - Content should be as brief as possible without sacrificing clarity.
-- Avoid using first- and second-person pronouns (e.g. I, we, you)
+- Avoid using first- and second-person pronouns (e.g. I, we, you).
 - Avoid referencing information that isn't strictly related to the topic of the entry. As a rule, you want to assume as little pre-existing knowledge as possible. 
-- Encyclopedia entry titles should follow the format "<subject name> in <Language Name>"
+- Encyclopedia entry titles should follow the format "<Subject Name> in <Language Name>" (Loops in Python).
 
 ## Technical Standards for Content 
 
