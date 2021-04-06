@@ -1,7 +1,5 @@
 # Codepedia Style Guide
 
-## Content Types
-
 Codepedia content will fall into two categories:
 
 #### Encyclopedia Entries
