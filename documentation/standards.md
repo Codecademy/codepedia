@@ -24,13 +24,8 @@ We'll describe the standards for the content and the metadata separately.
 
 #### Editorial Standards for Content 
 
-- Brevity without sacrificing clarity. Make every word count.
-- 90% of writing is rewriting.
-- If the concept is hard, make it easy. If it's dry, make it fun. If it's simple, keep it simple.
-- Avoid using first- and second-person pronouns (e.g. I, we, you).
-- Avoid referencing information that isn't strictly related to the topic of the entry. As a rule, you want to assume as little pre-existing knowledge as possible. 
 - Encyclopedia entry titles should follow the format <Subject Name> in <Language Name> (Loops in Python).
-- All text should be written in Markdown
+- All text should be written in Markdown.
 - The content should begin with a brief title of size H1 (i.e. preceded by "# ")
 - This title should not exceed 30 characters unless absolutely necessary
 - Each subsection should begin with a title of size H2 (i.e. preceded by "## ")
@@ -50,3 +45,13 @@ We'll describe the standards for the content and the metadata separately.
   - SQL: ```sql
 
 For more details on Markdown, see Codecademy's [Curriculum Markdown Style Guide](http://curriculum-documentation.codecademy.com/Resources/markdown-style-guide/).
+
+General writing tips:
+
+- Avoid referencing information that isn't strictly related to the topic of the entry. As a rule, you want to assume as little pre-existing knowledge as possible. 
+- Avoid using first- and second-person pronouns (e.g. I, we, you) if possible.
+- Brevity without sacrificing clarity. Make every word count.
+- If the concept is hard, make it easy. If it's dry, make it fun. If it's simple, keep it simple.
+- 90% of writing is rewriting.
+
+
