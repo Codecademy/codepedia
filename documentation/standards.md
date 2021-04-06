@@ -15,7 +15,6 @@ Short lists of key information about a specific function, keyword, tag, or other
   - For an example of what we're going for, check out this entry on W3Schools about the abs() function in Python.
   - Notably, glossary entries will be grouped into glossaries, or tables of glossary entries on the same subject, rather than occupying pages of their own. 
 
-
 ## Editorial Standards
 
 All entries should consist of two parts:
