@@ -7,7 +7,7 @@ Codepedia content will fall into two categories:
 #### Encyclopedia Entries
 
 1+ paragraph long explanations of a coding concept. Think of them like shorter Wikipedia pages.
-  - For example, check out the [What is a Loop?](https://codecademy.github.io/codepedia/entries/loops/) encyclopedia entry and the [Loops in JavaScript](https://codecademy.github.io/codepedia/entries/loops/JavaScript) on our demo site!
+  - For example, check out the [What is a Loop?](https://codecademy.github.io/codepedia/entries/loops/) encyclopedia entry and the [Loops in JavaScript](https://codecademy.github.io/codepedia/entries/loops/JavaScript) encyclopedia entry on our demo site!
 
 #### Glossary Entries
 
