@@ -24,7 +24,7 @@ We'll describe the standards for the content and the metadata separately.
 
 #### Editorial Standards for Content 
 
-- Encyclopedia entry titles should follow the format <Subject Name> in <Language Name> (Loops in Python).
+- Encyclopedia entry titles should follow the format "<Subject Name> in <Language Name>" (Loops in Python).
 - All text should be written in Markdown.
 - The content should begin with a brief title of size H1 (i.e. preceded by "# ")
 - This title should not exceed 30 characters unless absolutely necessary
@@ -33,15 +33,18 @@ We'll describe the standards for the content and the metadata separately.
 - All code blocks should be delineated by triple backticks (```)
   - C#: ```cs
   - CSS: ```css
+  - Error: ```error
+  - Emojicode: ```emojic
   - HTML: ```html
   - Java: ```java
   - JavaScript: ```js
   - PHP: ```php
+  - Pseudo: ```pseudo
   - Python: ```py
   - R: ```r
   - Ruby: ```rb
   - Sass: ```scss
-  - Shell/Program Output/Unhighlighted: ```
+  - Shell/Program Output: ```
   - SQL: ```sql
 
 For more details on Markdown, see Codecademy's [Curriculum Markdown Style Guide](http://curriculum-documentation.codecademy.com/Resources/markdown-style-guide/).
