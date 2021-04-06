@@ -17,8 +17,8 @@ Short lists of key information about a specific function, keyword, tag, or other
 
 All Codepedia entries are in Markdown files and should consist of two parts:
 
-- The content itself, written in Markdown.
-- A set of metadata about the content, written in JSON, that appears at the top of the entry.
+- **The content** itself, written in Markdown.
+- **The metadata** about the content, written in JSON, that appears at the top of the entry.
 
 We'll describe the standards for the content and the metadata separately.
 
