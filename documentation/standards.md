@@ -25,7 +25,7 @@ We'll describe the standards for the content and the metadata separately.
 - Content should be as brief as possible without sacrificing clarity.
 - Avoid using first- and second-person pronouns (e.g. I, we, you).
 - Avoid referencing information that isn't strictly related to the topic of the entry. As a rule, you want to assume as little pre-existing knowledge as possible. 
-- Encyclopedia entry titles should follow the format "<Subject Name> in <Language Name>" (Loops in Python).
+- Encyclopedia entry titles should follow the format <Subject Name> in <Language Name> (Loops in Python).
 - All text should be written in Markdown
 - The content should begin with a brief title of size H1 (i.e. preceded by "# ")
 - This title should not exceed 30 characters unless absolutely necessary
