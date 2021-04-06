@@ -13,8 +13,6 @@ Short lists of key information about a specific function, keyword, tag, or other
   - For an example of what we're going for, check out this entry on W3Schools about the abs() function in Python.
   - Notably, glossary entries will be grouped into glossaries, or tables of glossary entries on the same subject, rather than occupying pages of their own. 
 
---- 
-
 ## Editorial Standards
 
 All Codepedia entries are in Markdown files and should consist of two parts:
@@ -24,7 +22,7 @@ All Codepedia entries are in Markdown files and should consist of two parts:
 
 We'll describe the standards for the content and the metadata separately.
 
-### Editorial Standards for Content 
+#### Editorial Standards for Content 
 
 - Brevity without sacrificing clarity. Make every word count.
 - 90% of writing is rewriting.
