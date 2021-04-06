@@ -1,18 +1,18 @@
 # What is a Loop?
 
-Let's consider a situation when you want to print `Hello, World!` five times.
+Let's consider a situation when we want to print the text `Hello, World!` five times.
 
-Here is a simple C program to do the same:
+Here's a simple C program that does this:
 
 ```c
 #include <stdio.h>
 
 int main() {
-   printf( "Hello, World!\n");
-   printf( "Hello, World!\n");
-   printf( "Hello, World!\n");
-   printf( "Hello, World!\n");
-   printf( "Hello, World!\n");
+   printf("Hello, World!\n");
+   printf("Hello, World!\n");
+   printf("Hello, World!\n");
+   printf("Hello, World!\n");
+   printf("Hello, World!\n");
 }
 ```
 
@@ -26,7 +26,7 @@ Hello, World!
 Hello, World!
 ```
 
-It was simple, but again, let's consider another situation when you want to write `Hello, World!` a thousand times. We can certainly not write `printf()` statements a thousand times. 
+Simple. However, let's consider another situation when we want to write `Hello, World!` a thousand times. We can certainly not write `printf()` statements a thousand times!
 
 Almost all the programming languages provide a concept called loop, which helps in executing one or more statements up to a desired number of times. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
@@ -38,7 +38,7 @@ Let's write the above C program with the help of a while loop and later, we will
 int main() {
    int i = 0;
    
-   while ( i < 5 ) {
+   while (i < 5) {
       printf("Hello, World!\n");
       i = i + 1;
    }
@@ -65,7 +65,7 @@ The above program makes use of a `while` loop, which is being used to execute a 
 
 Avoid infinite loops. Make sure the condition in a loop eventually becomes false—otherwise, the loop will never terminate! The statements in the following while loop execute forever because the condition never becomes false:
 
-```pseudo
+```js
 // Infinite loops are bad!
 while (true) {
   console.log('Hello, world!');
