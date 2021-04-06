@@ -10,7 +10,7 @@ Codepedia content will fall into two categories:
 #### Glossary Entries
 
 Short lists of key information about a specific function, keyword, tag, or other grouping. 
-  - For an example of what we're going for, check out this entry on W3Schools about the abs() function in Python.
+  - For an example of what we're going for, check out this entry on W3Schools about the `abs()` function in Python.
   - Notably, glossary entries will be grouped into glossaries, or tables of glossary entries on the same subject, rather than occupying pages of their own. 
 
 ## Editorial Standards
@@ -22,7 +22,7 @@ All Codepedia entries are in Markdown files and should consist of two parts:
 
 We'll describe the standards for the content and the metadata separately.
 
-#### Editorial Standards for Content 
+### Editorial Standards for Content 
 
 - Encyclopedia entry titles should follow the format [Subject Name] in [Language Name] (Loops in Python).
 - All text should be written in Markdown.
