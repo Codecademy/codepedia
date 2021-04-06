@@ -4,12 +4,12 @@
 
 Codepedia content will fall into two categories:
 
-#### Encyclopedia entries
+#### Encyclopedia Entries
 
 1+ paragraph long explanations of a coding concept. Think of them like shorter Wikipedia pages.
   - For example, check out the Functions encyclopedia entry on our demo site!
 
-#### Glossary entries**
+#### Glossary Entries
 
 Short lists of key information about a specific function, keyword, tag, or other grouping. 
   - For an example of what we're going for, check out this entry on W3Schools about the abs() function in Python.
