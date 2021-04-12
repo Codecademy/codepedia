@@ -23,9 +23,9 @@ If you're interested in contributing, check out our [Contribution Guide](https:/
 ## Adding a new concept
 
 1. In the root folder, run `yarn new-entry`
-1. Follow the prompts to create a new entry for a particular concept / language
-1. Open up the Markdown (**[concept].md**) file that the tool generates for you and edit the file. Follow this [standard](https://github.com/Codecademy/codepedia/blob/main/documentation/standards.md) and use these two templates:
-  - [Encloypedia Entry template](https://github.com/Codecademy/codepedia/blob/main/documentation/encyclopedia_entry_template.md)
-  - [Glossary Entry template](https://github.com/Codecademy/codepedia/blob/main/documentation/glossary_entry_template.md)
-1. You should be able to see your new entry in the local version of Codepedia (you may need a refresh)
-1. When ready to commit your changes, make sure to include the **[concept].md**, **_meta/[concept].json**, and **map.json** files that were changed
+2. Follow the prompts to create a new entry for a particular concept / language
+3. Open up the Markdown (**[concept].md**) file that the tool generates for you and edit the file. Follow this [standard](https://github.com/Codecademy/codepedia/blob/main/documentation/standards.md) and use one of these two templates:
+  * [Encloypedia Entry template](https://github.com/Codecademy/codepedia/blob/main/documentation/encyclopedia_entry_template.md)
+  * [Glossary Entry template](https://github.com/Codecademy/codepedia/blob/main/documentation/glossary_entry_template.md)
+4. You should be able to see your new entry in the local version of Codepedia (you may need a refresh)
+5. When ready to commit your changes, make sure to include the **[concept].md**, **_meta/[concept].json**, and **map.json** files that were changed
