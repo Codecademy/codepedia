@@ -24,6 +24,6 @@ If you're interested in contributing, check out our [Contribution Guide](https:/
 
 1. In the root folder, run `yarn new-entry`
 1. Follow the prompts to create a new entry for a particular concept / language
-1. Open up the Markdown (md) file that the tool generates for you
+1. Open up the Markdown (**[concept].md**) file that the tool generates for you
 1. You should be able to see your new entry in the local version of Codepedia (you may need a refresh)
-1. When ready to commit your changes, make sure to include the `[concept].md`, `_meta/[concept].json`, and `map.json` files that were changed
+1. When ready to commit your changes, make sure to include the **[concept].md**, **_meta/[concept].json**, and **map.json** files that were changed
