@@ -18,7 +18,8 @@ To begin your contributions to Codepedia, you need to have an account on [GitHub
 
 ### Step 2: Pick an "Issue" to complete
 
-Now that you are logged in, read the descriptions of the different task types available on the main GitHub repo, and decide which one most appeals to you. You can pick any task you like and begin your contribution.
+- If you are a Codecademy learner: Now that you are logged in, read the descriptions of the different task types available on the main GitHub repo, and decide which one most appeals to you. You can pick any task you like and begin your contribution.
+- If you are a Codecademy content contributor: Find your name within the Codepedia Entry Assignment Sheet.
 
 ### Step 3: Do the task
 
