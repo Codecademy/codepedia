@@ -29,6 +29,8 @@ Once you've decided what kind of task you want to do, find a specific page, code
 > Run `yarn new-entry` at your command line to go through a series of prompts about the entry 
 > you're adding.
 
+Take a look at the README file in https://github.com/Codecademy/codepedia.
+
 ### Step 4: Ask for help
 
 If you are not sure what to do at any point, then you are more than welcome to ask for help. There are a few different help options:
